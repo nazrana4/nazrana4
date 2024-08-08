@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Myself **Nazrana Bagwan**
+## Myself **Nazrana Bagwan** :raising_hand_woman:
 
 <!--
 **nazrana4/nazrana4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
