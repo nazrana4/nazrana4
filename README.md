@@ -1,3 +1,8 @@
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/nazrana4/nazrana4/blob/main/image1.jpeg">
+</picture>
+
+
 ## Hi there 👋
 
 ## Myself **Nazrana Bagwan**
