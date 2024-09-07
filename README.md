@@ -1,7 +1,3 @@
-<picture>
-<img src="https://github.com/nazrana4/nazrana4/blob/main/image1.jpeg">
-</picture>
-
 ## Hi there 👋
 ## Myself **Nazrana Bagwan** :raising_hand_woman:
 
